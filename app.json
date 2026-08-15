@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "CycleWise",
+    "slug": "cyclewise",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#fdf6f8"
+    },
+    "android": {
+      "package": "com.cyclewise.app"
+    }
+  }
+}
