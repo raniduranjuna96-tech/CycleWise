@@ -50,12 +50,9 @@ rather than a live API (API integration comes in Sprint 2).
 5. Scan the QR code shown in the terminal / browser with Expo Go to
    run the app on your phone
 
-## Screenshots
-## Screenshots
 
-| Home | Detail | Settings |
-|------|--------|----------|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Settings](screenshots/settings.png) |
+## Screenshots
+| ![Home](screenshots/home.jpg) | ![Detail](screenshots/detail.png) | ![Settings](screenshots/settings.png) |
 
 ## Notes on AI Tool Usage
 This project was scaffolded with assistance from an AI tool for
