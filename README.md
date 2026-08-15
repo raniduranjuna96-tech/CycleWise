@@ -52,7 +52,7 @@ rather than a live API (API integration comes in Sprint 2).
 
 
 ## Screenshots
-| ![Home](screenshots/home.jpg) | ![Detail](screenshots/detail.png) | ![Settings](screenshots/settings.png) |
+| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Settings](screenshots/settings.png) |
 
 ## Notes on AI Tool Usage
 This project was scaffolded with assistance from an AI tool for
